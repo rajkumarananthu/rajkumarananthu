@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Just started working on yaml-cpp and x64dbg projects as opensource contributions.
+- I solve mathematical and logical problems
+- You can reach me at rajkumar.ananthu108@gmail.com
