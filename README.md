@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Just started working on yaml-cpp and x64dbg projects as opensource contributions.
-- I solve mathematical and logical problems
+- [Issues](https://github.com/rajkumarananthu/rajkumarananthu/blob/main/issues.md) that I am working/worked on.
+- I solve [mathematical and logical problems](https://github.com/rajkumarananthu/workspace/tree/master/problems)
 - You can reach me at rajkumar.ananthu108@gmail.com
