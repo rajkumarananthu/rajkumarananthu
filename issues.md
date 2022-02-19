@@ -16,3 +16,7 @@ emscripten
 ---
 - [ ] [16176](https://github.com/emscripten-core/emscripten/issues/16176)
 ---
+llvm-project
+---
+- [ ] [43831] (https://github.com/llvm/llvm-project/issues/43831)
+---
