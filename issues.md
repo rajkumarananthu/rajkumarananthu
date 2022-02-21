@@ -4,7 +4,7 @@ yaml-cpp
 ---
 x64dbg
 ---
-- [ ] [2752](https://github.com/x64dbg/x64dbg/issues/2752)
+- [x] [2752](https://github.com/x64dbg/x64dbg/issues/2752)
 - [ ] [2746](https://github.com/x64dbg/x64dbg/issues/2746)
 - [ ] [2689] (https://github.com/x64dbg/x64dbg/issues/2689)
 ---
