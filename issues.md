@@ -6,7 +6,7 @@ x64dbg
 ---
 - [x] [2752](https://github.com/x64dbg/x64dbg/issues/2752) [Pull-Request](https://github.com/x64dbg/x64dbg/pull/2817)
 - [ ] [2746](https://github.com/x64dbg/x64dbg/issues/2746)
-- [ ] [2689] (https://github.com/x64dbg/x64dbg/issues/2689)
+- [ ] [2689](https://github.com/x64dbg/x64dbg/issues/2689)
 ---
 modern-cpp-features
 ---
@@ -18,9 +18,9 @@ emscripten
 ---
 llvm-project
 ---
-- [ ] [43831] (https://github.com/llvm/llvm-project/issues/43831)
+- [ ] [43831](https://github.com/llvm/llvm-project/issues/43831)
 ---
 rethink-db
 ---
-- [ ] [6415] (https://github.com/rethinkdb/rethinkdb/issues/6415)
+- [ ] [6415](https://github.com/rethinkdb/rethinkdb/issues/6415)
 ---
