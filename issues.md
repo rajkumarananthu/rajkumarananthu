@@ -20,3 +20,7 @@ llvm-project
 ---
 - [ ] [43831] (https://github.com/llvm/llvm-project/issues/43831)
 ---
+rethink-db
+---
+- [ ] [6415] (https://github.com/rethinkdb/rethinkdb/issues/6415)
+---
