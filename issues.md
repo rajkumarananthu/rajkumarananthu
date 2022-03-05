@@ -14,5 +14,5 @@ modern-cpp-features
 ---
 emscripten
 ---
-- [ ] [16176](https://github.com/emscripten-core/emscripten/issues/16176)
+- [x] [16176](https://github.com/emscripten-core/emscripten/issues/16176) [Pull-Request](https://github.com/emscripten-core/emscripten/pull/16433)
 ---
