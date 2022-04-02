@@ -8,6 +8,7 @@ x64dbg
 - [ ] [2746](https://github.com/x64dbg/x64dbg/issues/2746)
 - [ ] [2689](https://github.com/x64dbg/x64dbg/issues/2689)
 - [ ] [2833](https://github.com/x64dbg/x64dbg/issues/2833)
+- [ ] [2851](https://github.com/x64dbg/x64dbg/issues/2851)
 ---
 modern-cpp-features
 ---
