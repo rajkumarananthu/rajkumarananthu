@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am B.Tech 2017 graduate in Computer Science and Engineering. Currently pursuing Masters in Mircoelectronics.
+- I am B.Tech 2017 graduate in Computer Science and Engineering. I also have a Masters in Mircoelectronics from BITS Pilani.
 - My favourite technologies are C++/C, Perl and Python.
 - Just started working on yaml-cpp and x64dbg projects as opensource contributions.
 - [Issues](https://github.com/rajkumarananthu/rajkumarananthu/blob/main/issues.md) that I am working/worked/going-to-work on.
