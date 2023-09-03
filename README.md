@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - [Issues](https://github.com/rajkumarananthu/rajkumarananthu/blob/main/issues.md) that I am working/worked/going-to-work on.
 - I solve [mathematical and logical problems](https://github.com/rajkumarananthu/workspace/tree/master/problems)
 - You can reach me at rajkumar.ananthu108@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rajkumarananthu/)
