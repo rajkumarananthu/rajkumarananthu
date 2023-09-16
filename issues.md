@@ -20,5 +20,5 @@ emscripten
 ---
 llvm-project
 ---
-- [ ] [53952](https://github.com/llvm/llvm-project/issues/53952)
+- [ ] [53952](https://github.com/llvm/llvm-project/issues/53952) 
 ---
