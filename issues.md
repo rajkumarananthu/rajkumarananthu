@@ -22,5 +22,5 @@ llvm-project
 ---
 - [x] [53952](https://github.com/llvm/llvm-project/issues/53952) [Pull-Request](https://github.com/llvm/llvm-project/pull/68127)
 - [ ] [64805](https://github.com/llvm/llvm-project/issues/64805)
-- [ ] [53390](https://github.com/llvm/llvm-project/issues/53390)
+- [x] [53390](https://github.com/llvm/llvm-project/issues/53390) [Pull-Request](https://github.com/llvm/llvm-project/pull/102894)
 ---
